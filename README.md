@@ -4,10 +4,12 @@ GUI tool to split an existing PDF file into separate pages or create a new PDF f
 Written for Python 3.5.1
 * Completely functioning code, but still some refinement required.
 
+
 **Installation:**
 
  Required module: PyPDF2
  Run the pdf_splitter.py file.
+ 
  
  **Usage:**
  
