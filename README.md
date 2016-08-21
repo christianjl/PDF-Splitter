@@ -8,6 +8,7 @@ Written for Python 3.5.1
 **Installation:**
 
  Required module: PyPDF2
+ 
  Run the pdf_splitter.py file.
  
  
