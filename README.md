@@ -16,9 +16,9 @@ Written for Python 3.5.1
  
  ![GUI](http://i.imgur.com/3hbHgWC.png)
  
- `Split Into Individual Files` - Creates a new folder in the same location as the `File Location`. The folder name is the same as the specified PDF file with 'Split Files' appended. If the folder already exists, an unique number will be appended to prevent overwriting.
+ `Split Into Individual Files` - Creates a new folder in the same location as the `File Location`. The folder name is the same as the specified PDF file with 'Split Files' appended. If the folder already exists, a unique number will be appended to prevent overwriting.
  
- `New File From Pages` - A new PDF file is created from the entered page ranges in the same location as the `File Location`. The file name is the same as the specified PDF file with '(Edited)' appended. If the file already exists, an unique number will be appended to prevent overwriting. 
+ `New File From Pages` - A new PDF file is created from the entered page ranges in the same location as the `File Location`. The file name is the same as the specified PDF file with '(Edited)' appended. If the file already exists, a unique number will be appended to prevent overwriting. 
  
- If `New File Name` is specified, the new PDF will be created with the entered name.
+ If `New File Name` is specified, the new PDF will be created with the entered name. If the file already exists, a unique number will be appended to prevent overwriting.
  
