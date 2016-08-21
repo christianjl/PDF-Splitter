@@ -10,7 +10,7 @@ Written for Python 3.5.1
  
  **Usage:**
  
- ![GUI](C:/Users/Christian/Documents/pdf-splitter.png)
+ ![GUI](http://i.imgur.com/3hbHgWC.png)
  
  `Split Into Individual Files` - Creates a new folder in the same location as the `File Location`. The folder name is the same as the specified PDF file with 'Split Files' appended. If the folder already exists, an unique number will be appended to prevent overwriting.
  
